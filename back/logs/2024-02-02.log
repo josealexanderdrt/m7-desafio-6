@@ -1,0 +1,822 @@
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:06:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"sdsd@wwe.cl","password":"123456sdsd"}
+Completed: 400 message:  Time response: 162 ms Request ID: [4898f9e9-d9bd-4275-9abe-77f93fd7a2b4]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:10:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"sdsd@wwe.cl","password":"123456sdsd"}
+Completed: 400 message:  Time response: 160 ms Request ID: [4bab6db2-cfe5-4a6b-b715-fd506bc412d7]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:11:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"sdsd@wwe.cl","password":"123456sdsd"}
+Completed: 400 message:  Time response: 145 ms Request ID: [461c7649-412c-44c6-8290-ca96fffb211b]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:13:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"sdsd@wwe.cl","password":"123456sdsd"}
+Completed: 400 message:  Time response: 141 ms Request ID: [621e74b8-e40c-4907-9620-9c218caa07d5]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:13:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas.com","password":"123456"}
+Completed: 400 message:  Time response: 114 ms Request ID: [6c9ba275-781a-4c81-b3c4-769d9870bca1]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:13:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas.com","password":"123456"}
+Completed: 400 message:  Time response: 82 ms Request ID: [4d560ebd-de29-4ef2-af06-df478743a52a]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:15:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas.com","password":"123456"}
+Completed: 400 message:  Time response: 132 ms Request ID: [7ee958f3-4317-47ea-8611-cb83b5305681]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:15:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas.com","password":"123456"}
+Completed: 400 message:  Time response: 149 ms Request ID: [0a10cb9f-2ab7-4c07-8762-d46f0180df6a]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:16:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas.com","password":"123456"}
+Completed: 400 message:  Time response: 143 ms Request ID: [48705691-1f25-4ab7-9a9c-c98cf98dba35]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:17:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas.com","password":"123456"}
+Completed: 400 message:  Time response: 150 ms Request ID: [a89b0ed7-fc89-44f5-b856-2dd6cbde1936]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Thu Feb 01 2024 21:19:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@pruebas.com","password":"123456","rol":"Backend Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 256 ms Request ID: [f777b68f-928d-4249-983f-ef5c6d432f77]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Thu Feb 01 2024 21:19:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@pruebas2.com","password":"123456","rol":"Backend Developer","lenguage":"Ruby"}}
+Completed: 201 message:  Time response: 117 ms Request ID: [b5ae060d-3819-443b-991e-e8863c6580ad]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Thu Feb 01 2024 21:20:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"datalogin":{"email":"prueba@pruebas2.com","password":"123456"}}
+Completed: 400 message:  Time response: 3 ms Request ID: [f894b8cb-992e-4fb6-824b-1be0d57b6e06]
+
+Started POST /login for :: ::ffff:127.0.0.1 at Thu Feb 01 2024 21:20:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 400 message:  Time response: 126 ms Request ID: [79281de3-0a3c-4390-8b45-c5889031218b]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:21:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 400 message:  Time response: 124 ms Request ID: [736c2ea5-0d72-415a-bf54-26212b7955b7]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Thu Feb 01 2024 21:25:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@pruebas2.com","password":"123456","rol":"Backend Developer","lenguage":"Ruby"}}
+Completed: 201 message:  Time response: 136 ms Request ID: [3ac833c8-e17a-433b-82ee-a65af4226ce5]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:25:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 400 message:  Time response: 127 ms Request ID: [a48133cf-e349-4232-af92-e7821dc92f76]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:33:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 400 message:  Time response: 59 ms Request ID: [803c09c5-a138-44a0-adb6-22bc3babd835]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:33:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 400 message:  Time response: 151 ms Request ID: [679cd3c5-c87c-4a94-bf4d-fb3d4d9efdca]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:34:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 400 message:  Time response: 58 ms Request ID: [760d2a22-bf0b-4a26-8b8f-cc3e4602a345]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:34:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 400 message:  Time response: 77 ms Request ID: [900ba4bc-51d7-486f-ae76-18da06e12b43]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:34:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 400 message:  Time response: 53 ms Request ID: [ab825482-3ab0-4fd1-94ca-5f6280e09a7e]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:35:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 400 message:  Time response: 58 ms Request ID: [a9cd5d7b-eda2-401c-a538-7c8c30e71d8b]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:36:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 149 ms Request ID: [2ecb07a9-3581-438a-9e0d-d8038d84ef70]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 21:36:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [6fc47092-8176-4184-bb73-7fcaf0d35fc0]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 21:36:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 6 ms Request ID: [213620ca-fe9f-4daf-b40e-2215a44c3c9a]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:38:02 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 149 ms Request ID: [54aa2f1d-0f9a-45cf-be3a-16cf123025b9]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 21:38:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [346c95dc-df53-4e15-b036-9176bb00f7c7]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 21:38:04 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [dc9d385f-d992-4287-99f8-3540bd86632c]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:40:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 294 ms Request ID: [a1752cfb-7910-4bf3-966a-3972958b8ed2]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 21:40:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [b0207b7b-b710-4c33-99d4-1ef3015d079a]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 21:40:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 2 ms Request ID: [2436e856-a3b1-435b-b845-0fa06dc2c8f1]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:41:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 145 ms Request ID: [c77439e6-9a07-42cb-96b6-83d97eb257c7]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 21:41:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 4 ms Request ID: [ba436c7b-0b58-4055-948d-1d21b3d511a6]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 21:41:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [cf5942a1-3e48-4afc-8198-958e68104887]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:42:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 172 ms Request ID: [011f617c-eb6e-496c-aae7-80d8d23da8b6]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 21:42:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [02884784-96a3-43e2-be34-fe5cc0cc96c9]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 21:42:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 3 ms Request ID: [78c0dd6c-ec0c-41ab-afd4-b62f82869f32]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:45:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 256 ms Request ID: [c9014b41-d186-4258-ab97-12450a9df257]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 21:45:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 21:45:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 404 message:  Time response: 5 ms Request ID: [5bb47d66-a322-4105-b8a1-a715a5682dd6]
+
+Completed: 404 message:  Time response: 3 ms Request ID: [ad4603aa-0f62-4743-9169-ac509a5afe93]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 21:59:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 164 ms Request ID: [f5fcf57c-ab72-4ed6-9bcb-dcccd97d81ad]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 21:59:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 21:59:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:01:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 161 ms Request ID: [8138ee91-6028-48de-b4e4-5ecee8b649d9]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:02:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:02:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:03:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 140 ms Request ID: [d7e50e0a-1879-47e6-b431-0397a8b37c6f]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:03:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:05:48 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 194 ms Request ID: [95b856dc-f1cd-4dc7-a23a-aff7d40c195b]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:05:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 9 ms Request ID: [cd9479ca-50ae-4b1b-ab43-c21c3b00dbdb]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:05:50 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 7 ms Request ID: [06d618e1-9be6-4642-a8e4-9dfbf48c4f41]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:06:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 152 ms Request ID: [87a2d9f2-6cc7-4b02-b1dc-33cb9e5d7ad9]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:06:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 8 ms Request ID: [8077cfcb-86d5-407d-899d-3e03c572b2de]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:06:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [316fc394-af49-4582-a954-8eb38117823b]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:06:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 269 ms Request ID: [8acb4c10-f7c3-4442-a50d-f141a1f91f0b]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:06:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [6fa19810-c0e2-4ba3-98b6-7bea9942256b]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:06:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [92aae814-d633-4f82-b465-bac59c77c1eb]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:07:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 190 ms Request ID: [db8e0a6b-acdd-4d1c-b79d-fc4a5b5e58ae]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:07:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 8 ms Request ID: [e4c858e1-e990-481b-b081-3f2d8c1ba113]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:07:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [21b25c5d-6792-4030-9339-bdf673481848]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:08:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 155 ms Request ID: [0897ac2a-3bb6-49ff-b461-0944c86f474b]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:08:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [feae29ab-84ae-4793-9e21-3f9c34c20010]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:09:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 48 ms Request ID: [fd2983e5-c495-44d7-b6f1-84862f4bf0bb]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:09:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 187 ms Request ID: [8ac6e2fc-45d1-4c9d-a985-ad807eb2a67b]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:09:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 3 ms Request ID: [428c5631-6693-4b34-be47-c319213b7d3b]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:09:40 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 7 ms Request ID: [4676dcc5-cbbe-4d69-a367-1e74115cc57b]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:11:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 116 ms Request ID: [a274d5d7-c8ac-424e-bcbd-ec9ad9379660]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:11:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [f7413603-2a43-4af4-8169-0dd3788c49e0]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:11:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 68 ms Request ID: [63592e3d-8eca-4be1-9ef0-6d23b78787ab]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:13:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 153 ms Request ID: [514cd881-dc92-4537-a1af-e9dccb4c33b0]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:13:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 50 ms Request ID: [6524ba1c-75b6-4ef2-a9b5-874f2b11453f]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:14:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 179 ms Request ID: [c7629ae7-be91-486d-b210-af2c5126655a]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:14:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [111dc9f0-6111-434e-9a13-7a7bd455d577]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:14:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [1b50db2c-9303-4f02-a422-a89354fc89ea]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:14:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 140 ms Request ID: [0b56559a-2ab7-49ef-b101-dc0835f94387]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:14:28 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [a80cb5ca-3c0d-40c7-acfd-50c8423d195e]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:15:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 48 ms Request ID: [9f6532d2-4e2a-4f00-892e-bed2d1ae2298]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:15:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [3fea9662-0f47-4b17-82de-2fb548e3add7]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:16:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 174 ms Request ID: [62496644-c598-4e2b-b4cf-0380c62fd2a0]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:16:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [d7aeab0d-42db-4821-aced-2c2eb9782e28]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:16:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [e3f41a60-50a4-41a5-a425-61e0df5b54af]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:19:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 55 ms Request ID: [5438f38c-bb9c-492d-b619-5151cc55098c]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:19:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [03d1c4f5-3a33-487c-b2f3-685f889f5826]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:19:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [6b6f41b1-a0e8-44fd-a19f-40aefe3a7ea5]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:19:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [1807ea8f-e871-4733-832e-8631ebeac0cd]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:19:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 62 ms Request ID: [ef772fb4-853e-4333-8d43-947d6e79af3a]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:19:52 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 3 ms Request ID: [ed70138f-ed12-4902-a77b-5b33d7619cd7]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:19:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 84 ms Request ID: [39100349-3352-448f-8c05-da5096335ae8]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:20:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:20:00 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [70366bb7-95b1-4f31-819f-494e19f90445]
+
+Completed: 201 message:  Time response: 5 ms Request ID: [4c62c15c-b8c8-4590-a3af-45ec56d38fc5]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:20:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 45 ms Request ID: [d0ed3ad5-dc04-41ef-851c-f90f32a39d2a]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:20:29 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 42 ms Request ID: [2f8b761e-2b42-43e3-9c84-a6f1e87c8166]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:22:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 41 ms Request ID: [1dd20b66-6641-40fc-ad6c-56e6d96f3494]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:22:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 63 ms Request ID: [3d00f535-8787-4b8e-ae48-8ff5844ec360]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:22:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [5e900c15-5612-47c2-93d5-c1f596916f35]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:22:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:22:55 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 70 ms Request ID: [b9fe184b-ee48-4351-a360-a35d1b717bc6]
+
+Completed: 201 message:  Time response: 103 ms Request ID: [5c23fa7d-04e6-4cb2-baf5-d8b4a5d9ec62]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:23:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [a538ad64-03bb-415f-b779-be154aed21ec]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:23:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [2bf5c607-3480-4e74-a712-faeba5b9e00c]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:23:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 120 ms Request ID: [0ded92ea-e2bb-4452-89d0-872da3e11582]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:23:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 3 ms Request ID: [e6d15d52-6cb5-47b5-bccc-7b99c3eb42a2]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:23:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [8b28870c-ccc5-4041-9376-f028e2659572]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:25:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 73 ms Request ID: [350b7094-b35d-4c54-b7aa-204ad1de08b4]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:25:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [851f03e5-8033-4be9-8696-d2aa4b31ee31]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:25:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [6391bdcb-6246-4623-88d6-9618f807b8a8]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:25:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [d4ee65c4-fc46-4986-88e0-9274e71833a1]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:25:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 145 ms Request ID: [b810fc76-6361-4d71-be2a-a23244d09e80]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:25:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 8 ms Request ID: [3a88308e-9183-40fa-a585-aa41bf1e8146]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:25:32 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 8 ms Request ID: [7371b2b4-d5c7-4926-a00a-3b5ef98b9bc2]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:25:53 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 120 ms Request ID: [77a2bc6a-18eb-45ae-b52d-77316b21e818]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:25:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [2393f8ab-a61e-4174-ab38-d560e34a11f5]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:25:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [1bb22750-8043-45f8-b96a-6512425adf8d]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:27:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 45 ms Request ID: [dd0c64de-45d8-4662-bfd3-987c84401ac6]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:27:36 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [a78f752f-4d20-4d8d-891c-195a3c99bc16]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:27:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [fe5e83f5-a2ed-4633-b247-caa75ad74464]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:27:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [102ab0ea-36e3-48ed-b2e0-b8e2b0ceda32]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:27:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [2e4123d6-37d3-4bcd-b80f-9455f85f89d6]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:27:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 3 ms Request ID: [b69dba96-5f4e-460e-800e-e78923f786bb]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:28:05 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 45 ms Request ID: [42f839fe-ea13-46c2-8465-cc3bbedab49d]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:28:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [af82ff0d-3b16-4a01-8300-4ea41bb2f64c]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:28:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [78b7941b-86b3-4f90-89cd-60390fb92297]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:28:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [472060f4-a2dc-4ad9-ba29-31d93a3203bd]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:28:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [0636bc8c-f5b1-4c96-96bd-8ffd5757b26a]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:28:21 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [91697568-5e98-4b9d-816a-6bd65dad3a11]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:29:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 49 ms Request ID: [f6c2e6b0-bddd-452a-81d6-cde5e1280feb]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:29:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 3 ms Request ID: [5335ad1a-f093-41d2-81b1-6cb180dec5c7]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:29:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 80 ms Request ID: [eb62ef98-4f05-430b-b6f7-ee4b33701f28]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:29:16 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [73ad234c-102d-4139-a106-7cd3cd8a1799]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:32:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 164 ms Request ID: [91b9bf7c-7572-45fd-8d08-b2d5709f815b]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:32:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 3 ms Request ID: [e71de2e2-a90a-41af-ac5a-86b39dc438a1]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:32:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [a7265285-0062-454d-90dc-ce6c5bc2a886]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:33:37 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 173 ms Request ID: [161038af-6a1f-4619-9d7f-678ad7ebccc4]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:33:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [9045bd4b-bce2-41d8-9298-907ac1bf50eb]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:33:39 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [17a77fda-4158-4ff9-ae2a-e28b70e8cda0]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:34:22 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 44 ms Request ID: [844510fb-8fbe-48a6-b9bd-3f9a561fd73d]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:35:18 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 87 ms Request ID: [45f5ed64-c629-4a6e-8a8f-50fb89deb7a1]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:35:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 3 ms Request ID: [f7d404a9-d98d-4046-a054-e9c3689387aa]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:35:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 140 ms Request ID: [b2b516ae-308e-40d6-9906-f826faa017de]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:36:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 59 ms Request ID: [7de56a7e-64c8-44d9-84a0-91b9053b49ad]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:36:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [b63e1858-a69a-4f84-b6dd-ecff967b8634]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:37:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 120 ms Request ID: [3d68f5d5-418f-4f58-b4e4-dc090bba1702]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:37:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [be0f4a27-4fde-4d55-8791-76f1cbdf1e91]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:37:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [bd98a36d-26ac-4616-a052-d897e4ee2bd5]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:37:44 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 45 ms Request ID: [c0e4c066-8a39-4f91-9de5-c8b2d4a51c12]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:38:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 42 ms Request ID: [f5aa7cb1-d8b0-49eb-a9ef-2913de09a48d]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:38:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 61 ms Request ID: [2b6e1cbe-4c43-4428-be3b-86c790d71de0]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:39:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 39 ms Request ID: [345c8565-ad77-47a6-9d57-ce1ecdb9001d]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:39:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 7 ms Request ID: [344dba79-8189-4c28-8068-d8c0dff5993e]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:39:06 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [e44928cd-7f10-4959-9c3f-8a92b95b396f]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:39:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 400 message:  Time response: 3 ms Request ID: [7b269398-bbc3-4e5b-aab6-3788eb7bd5b6]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:39:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 128 ms Request ID: [d4db49c4-de0a-4488-9096-3d294ac924cb]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:39:26 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [ac3f2586-6c70-40b1-9371-2466d91263fc]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:39:27 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [5517b459-5bc9-4f6b-b90c-672d18072448]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:39:31 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"prueba@pruebas2.com","password":"123456"}
+Completed: 201 message:  Time response: 133 ms Request ID: [f1113d8a-7791-4bc3-8073-bf15c2d168e1]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:40:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 49 ms Request ID: [4b819745-4f1d-495f-9e01-924730b90646]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:40:20 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 44 ms Request ID: [f2e0a0b8-e655-482a-932b-af0b55b1fcde]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:40:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 43 ms Request ID: [d26944a1-95da-47d7-a7d7-7912b0f1de1f]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:40:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 48 ms Request ID: [70ce07c2-df1d-472d-af10-71f8585c8de0]
+
+Started POST /usuarios for :: ::1 at Thu Feb 01 2024 22:41:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 2 ms Request ID: [ace228d8-d3ae-46e6-bbe5-31e75ca819e2]
+
+Started POST /usuarios for :: ::1 at Thu Feb 01 2024 22:41:46 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 1 ms Request ID: [e967fa8d-aff6-46f9-ad0c-21c89ce3a53b]
+
+Started POST /usuarios for :: ::1 at Thu Feb 01 2024 22:42:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 400 message:  Time response: 5 ms Request ID: [be29b70c-ad03-4d8f-bf8d-ffd92984ad27]
+
+Started POST /usuarios for :: ::1 at Thu Feb 01 2024 22:44:03 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456","rol":"Full Stack Developer","lenguage":"JavaScript"}
+Completed: 201 message:  Time response: 138 ms Request ID: [378764ab-90b4-4e38-91cb-da66c05ddc99]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:44:09 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 201 message:  Time response: 141 ms Request ID: [749f1b00-9864-4d50-bd73-84c4ee9aa742]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:44:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 8 ms Request ID: [04e0d20b-4ba1-4118-ab95-86a27397e7eb]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:44:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 9 ms Request ID: [8cf52298-5788-4a87-93a5-311a6f26c2fb]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:45:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 77 ms Request ID: [6f36f6c3-170f-48d8-988c-c04c095d058d]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:45:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [dccebacd-b879-4501-ad96-2a3cbb19be18]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:45:54 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 49 ms Request ID: [5d5ac40c-62d9-4bcc-a202-abf5c647d16e]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:45:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [854a4584-1da7-46e8-a48d-bb990019cc84]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:47:10 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 201 message:  Time response: 234 ms Request ID: [b992ba33-fadb-4306-936e-768e5ac64a03]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:47:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 13 ms Request ID: [1fec51c3-28bf-4fce-b68e-4236e41c473f]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:47:12 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 9 ms Request ID: [7d9f0c44-a672-492b-bec1-55cc3056771f]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:48:56 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 201 message:  Time response: 139 ms Request ID: [5a61e788-481b-476a-a917-b49d1270dfdd]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:48:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 5 ms Request ID: [835f6ea7-614d-49ed-84e9-b422be42e181]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:48:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 4 ms Request ID: [a7d82417-30ae-4e61-88d9-4a8ab2698b02]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:49:07 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 201 message:  Time response: 317 ms Request ID: [fc6db355-97fa-4336-b255-d545edebff16]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:49:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 5 ms Request ID: [b83da99d-d036-42e1-96af-cb57b97b4c94]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:49:08 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 5 ms Request ID: [a41e2ce4-c3b9-4291-a355-2dcbee563e19]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:49:58 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 201 message:  Time response: 142 ms Request ID: [2dddea4f-cb30-4ba6-932d-fd9fc61674e1]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:49:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 8 ms Request ID: [503ca4e6-b351-45fe-8447-072c661beb79]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:49:59 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 9 ms Request ID: [fab555d0-fa79-49cb-bb08-86c70809ca73]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:50:15 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 201 message:  Time response: 199 ms Request ID: [c680e6d0-bac9-4510-add3-e699a83f16c2]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:50:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [f2e4cb6a-69fd-44ee-8dde-e8e89b2e4e47]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:50:17 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [f58276f6-2ff0-4872-89e6-2ba75dd0a0c5]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:52:38 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 56 ms Request ID: [d1656c4c-59e8-4f45-9aa7-be14d1c9b0d3]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:52:45 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [d2a6ed3f-5ec0-4884-b464-44420012dc7c]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:52:47 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [4ceaefea-dd6c-41c6-bb77-f67ff6ba74b5]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:52:49 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [99917216-7486-440e-a613-8ec194c7140b]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:53:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 8 ms Request ID: [95300a0d-901d-41ee-8668-5e9495cc2d66]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:53:25 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 4 ms Request ID: [90835655-d842-4941-a655-66a704aac3c3]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:53:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 4 ms Request ID: [f9e73b48-0a6e-4901-8034-73e8590a1c10]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:53:30 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 3 ms Request ID: [0426fb5a-9144-4850-a57c-143982857104]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:53:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 78 ms Request ID: [d0f0b37e-0e6d-4e04-bfbd-529bc6b9bc15]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:53:57 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 8 ms Request ID: [c59a5f21-dd23-4353-b238-21496f6365b9]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:54:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 54 ms Request ID: [9878e7be-6edd-4f9d-9d9b-e9af18dee426]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:54:24 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [99078bd8-6b96-4932-8626-7dc384116162]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:54:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 59 ms Request ID: [b68a5676-af11-4048-8168-28d6b5df7461]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:54:35 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 7 ms Request ID: [b1ce8cee-df24-498a-a43f-985e289c65a2]
+
+Started POST /login for :: ::1 at Thu Feb 01 2024 22:54:41 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"email":"docente@desafiolatam.com","password":"123456"}
+Completed: 201 message:  Time response: 127 ms Request ID: [c906cb9a-01e2-4abe-aa3c-2be20735fa60]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:54:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [a5d4ff5e-7930-48eb-9f04-690afc45c3cd]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:54:42 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 5 ms Request ID: [ef323d6f-f59c-4ecf-bb77-8e5b8083d69b]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:55:13 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 70 ms Request ID: [a28533f3-cf6e-4696-afae-b2ed5e746c77]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:55:14 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 4 ms Request ID: [5c97bfde-a4e0-4f99-a967-e7a18e3cbaa7]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:55:33 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:55:34 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 77 ms Request ID: [ed374ac1-8758-4c9d-8352-35debaeabde1]
+
+Completed: 201 message:  Time response: 5 ms Request ID: [13f4ae73-4d18-458a-bd9c-296f91317a10]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:57:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 69 ms Request ID: [7152f21b-96c7-4526-9952-7dc1ec109983]
+
+Started GET /usuarios for :: ::1 at Thu Feb 01 2024 22:57:11 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 201 message:  Time response: 6 ms Request ID: [9b0447c5-4387-4aec-9dc7-0715890fd74f]

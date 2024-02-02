@@ -1,0 +1,16 @@
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Thu Feb 01 2024 20:01:19 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {}
+Completed: 400 message:  Time response: 6 ms Request ID: [d2547ada-586e-4f64-9c0d-48ec21ef4226]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Thu Feb 01 2024 20:22:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@pruebas.com","password":"123456","rol":"Backend Developer","lenguage":"Ruby"}}
+Completed: 201 message:  Time response: 265 ms Request ID: [ba8fc6c7-19d0-4600-be92-f19b80617456]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Thu Feb 01 2024 20:22:01 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@pruebas.com","password":"123456","rol":"Backend Developer","lenguage":"Ruby"}}
+Completed: 201 message:  Time response: 132 ms Request ID: [dad5c713-5de9-49b1-92f1-7750af11cc61]
+
+Started POST /usuarios for :: ::ffff:127.0.0.1 at Thu Feb 01 2024 20:37:51 GMT-0300 (hora de verano de Chile)
+  Parameters in body: {"user":{"email":"prueba@pruebas.com","password":"123456","rol":"Backend Developer","lenguage":"Ruby"}}
+Completed: 400 message:  Time response: 222 ms Request ID: [191daf62-e42b-4495-bae3-6450eabd6e92]
